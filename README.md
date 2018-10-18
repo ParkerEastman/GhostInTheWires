@@ -1,2 +1,3 @@
 # GhostInTheWires
-My solutions for puzzles in Kevin Mitnick's book, "Ghost in the wires"
+Playing with ascii and hex shifts
+
